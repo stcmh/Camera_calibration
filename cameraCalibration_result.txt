@@ -1,0 +1,8 @@
+## Camera Calibration Results
+* The number of selected images = 3
+* RMS error = 1.0593572977269272
+* Camera matrix (K) = 
+[[565.62454744   0.         170.57717068]
+ [  0.         554.01439508 369.31856479]
+ [  0.           0.           1.        ]]
+* Distortion coefficient (k1, k2, p1, p2, k3, ...) = [-0.10866288, 0.33323217,  0.00597694, -0.00075108, -0.45685624]
